@@ -1,0 +1,51 @@
+.navbar {
+  height: 15vh;
+}
+.navbar-nav {
+  margin-left: 80%;
+}
+.nav-item nav-link {
+  padding-left: 20px;
+}
+.navbar-brand {
+  padding-left: 20px;
+}
+.navbar-brand > span {
+  font-weight: 800;
+}
+
+footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+.footer-container {
+  max-width: 1300px;
+  margin: auto;
+  padding: 0px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+}
+.footer-brand {
+  padding-left: 50px;
+}
+.footer-brand > span {
+  font-weight: 800;
+}
+.logo {
+  width: 180px;
+}
+.social-media {
+  margin: 20px 0;
+}
+.social-media a {
+  color: #001a21;
+  margin-right: 25px;
+  font-size: 22px;
+  text-decoration: none;
+  transition: 0.3s linear;
+}
+.social-media a:hover {
+  color: #fc5c65;
+}

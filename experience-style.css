@@ -1,0 +1,20 @@
+.jumbotron {
+  margin-top: 20px;
+  background-image: url(./experience-background.jpg);
+  height: 80vh;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 20px;
+}
+.btn-primary {
+  background-color: #fbb093;
+  border-color: #fbb093;
+}
+.my-4 {
+  margin-left: 0;
+}
+.lead {
+  font-weight: 500;
+  color: #494f4f;
+}

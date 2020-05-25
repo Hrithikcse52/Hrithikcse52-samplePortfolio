@@ -1,0 +1,48 @@
+.my-4 {
+  margin-left: 0;
+}
+.jumbotron {
+  margin-top: 20px;
+  background-image: url(./123.jpg);
+  height: 80vh;
+  padding-top: 20px;
+}
+
+.lead {
+  font-weight: 500;
+  color: #b0dae1;
+}
+
+.btn-primary {
+  background-color: #fbb093;
+  border-color: #fbb093;
+}
+.container {
+  display: flex;
+  align-items: center;
+  width: 90vw;
+  height: 100vh;
+}
+.image > img {
+  border-radius: 40%;
+  width: 400px;
+  height: 400px;
+}
+.name {
+  padding-left: 200px;
+  font-family: "Londrina Outline", cursive;
+}
+#firstName,
+#secoundName {
+  font-size: 10rem;
+}
+.list-group {
+  padding: 10px;
+}
+.list-group-item.active {
+  border-color: white;
+  background-color: #3f6687;
+}
+.display-4 {
+  color: #b0dae1;
+}

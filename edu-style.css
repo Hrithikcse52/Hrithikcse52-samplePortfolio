@@ -1,0 +1,22 @@
+.jumbotron {
+  margin-top: 20px;
+  background-image: url(./educationBackgroundImage.jpg);
+  height: 80vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 20px;
+}
+.lead {
+  font-weight: 500;
+
+  color: #494f4f;
+}
+
+.btn-primary {
+  background-color: #fbb093;
+  border-color: #fbb093;
+}
+.my-4 {
+  margin-left: 0;
+}
